@@ -1,0 +1,45 @@
+* {
+    padding: o;
+    margin: 0;
+}
+#titulo
+{
+    color: #0000CD;
+    font-size: medium;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+
+}
+fieldset {
+    border: 0;
+    border: 10;
+
+
+
+}
+body {
+    background-color: #87CEFA;
+    font-size: 1em;
+    font-family: Arial, Helvetica, sans-serif;
+    border: 20;
+    background-image: url();
+   
+    
+}
+#botao{
+    color: beige;
+    border-radius: 100%;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    
+}
+#campo {
+border: 15;
+}
+#elementos
+{
+    border: 20;
+    
+}
